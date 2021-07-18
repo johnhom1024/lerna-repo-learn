@@ -11,7 +11,7 @@
         "ignored-file",
         "*.md"
       ],
-      "message": "chore(release): publish",
+      "message": "chore(release): publish %s",
       "registry": "http://192.168.31.130:4873/"
     }
   }
