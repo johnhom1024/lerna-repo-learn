@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@mm/array-tool": "^1.0.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "@mono/cli": "0.0.5"
   }
 }
