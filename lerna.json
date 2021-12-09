@@ -4,6 +4,7 @@
   ],
   "npmClient": "yarn",
   "useWorkspaces": true,
+  "version": "1.0.0",
   "command": {
     "publish": {
       "ignoreChanges": [
@@ -12,12 +13,12 @@
       ],
       "message": "chore(release): publish %s",
       "registry": "http://192.168.31.130:4873/"
+    },
+    "version": {
+      "allowBranch": [
+        "main"
+      ],
+      "conventionalCommits": true
     }
-  },
-  "version": {
-    "allowBranch": [
-      "main"
-    ],
-    "conventionalCommits": true
   }
 }
