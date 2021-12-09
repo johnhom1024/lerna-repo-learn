@@ -8,4 +8,5 @@ function cli() {
     console.log('test');
     console.log('nihao');
     console.log('更新');
+    console.log('更新1');
 }
