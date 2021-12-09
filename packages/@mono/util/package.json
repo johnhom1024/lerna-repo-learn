@@ -1,6 +1,6 @@
 {
   "name": "@mono/util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "blank1024 <924358746@qq.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@mm/array-tool": "^1.0.2",
-    "@mono/cli": "^1.0.0",
+    "@mono/cli": "^1.0.1",
     "lodash": "^4.17.21"
   }
 }
